@@ -2,6 +2,7 @@ name: Julio Cafe
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.29928
+title: This is the site title
 cta:
   domain: null
   bucket: null
