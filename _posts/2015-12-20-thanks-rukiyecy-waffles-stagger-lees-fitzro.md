@@ -21,8 +21,8 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://www.instagram.com/p/_IFP17jiVm/?taken-by=breakfastinmelbourne'
 title: "Thanks @rukiye.cy \uD83D\uDE4C\uD83C\uDFFD\uD83C\uDF74 Waffles \uD83D\uDC9E\uD83C\uDF66 Stagger Lee's - Fitzroy #melbourne #breakfast #breakfastinmelbourne #staggerlees"
-datePublished: '2015-12-20T01:29:31.958Z'
-dateModified: '2015-12-20T01:24:10.325Z'
+datePublished: '2015-12-20T01:29:32.167Z'
+dateModified: '2015-12-20T01:23:07.188Z'
 sourcePath: _posts/2015-12-20-thanks-rukiyecy-waffles-stagger-lees-fitzro.md
 published: true
 inFeed: true
