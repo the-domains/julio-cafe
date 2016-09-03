@@ -1,20 +1,4 @@
-name: Julio Cafe
-favicon: null
-layout_spectrum: 0.74374
 typography_spectrum: 0.36128
-title: 'Fitzroy Cafe & Function Venue'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,24 @@ color:
   lightness: 0.75
   saturation: 0.25
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.74374
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Julio Cafe
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Gallery
+    id: e5cd1b0f-ec84-4800-8778-1557285f3a67
+    type: content
+favicon: null
+title: Fitzroy Cafe & Function Venue
 purpose: []
