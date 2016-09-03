@@ -4,8 +4,15 @@
         <description><![CDATA[Fitzroy Cafe & Function Venue]]></description>
         <link>https://thegrid.ai/julio-cafe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 01:30:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 02:33:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/julio-cafe/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gallery]]></title>
+            <description><![CDATA[<article><h1>Gallery</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f4e66d54cd47948001f53ccef483c23a3d94f52.jpg"></article>]]></description>
+            <link>https://thegrid.ai/julio-cafe/gallery/index.html</link>
+            <guid isPermaLink="false">e5cd1b0f-ec84-4800-8778-1557285f3a67</guid>
+            <pubDate>Thu, 01 Sep 2016 02:33:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Thanks @rukiye.cy 🙌🏽🍴 Waffles 💞🍦 Stagger Lee's - Fitzroy #melbourne #breakfast #breakfastinmelbourne #staggerlees]]></title>
             <description><![CDATA[<article><h1>Thanks @rukiye.cy 🙌🏽🍴 Waffles 💞🍦 Stagger Lee's - Fitzroy #melbourne #breakfast #breakfastinmelbourne #staggerlees</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0998cb0392fc218f7c6ae14f4037f009eafbb781.jpg"></article>]]></description>
@@ -50,17 +57,10 @@
         </item>
         <item>
             <title><![CDATA[Menu]]></title>
-            <description><![CDATA[<article><h1>Menu</h1><p>From the Cafe Menu</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c00065d31423ca15582480938cc39830e47fab5.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Menu</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2c00065d31423ca15582480938cc39830e47fab5.jpg"></article>]]></description>
             <link>https://thegrid.ai/julio-cafe/menu/index.html</link>
             <guid isPermaLink="false">08099a46-e963-4e33-9422-50002fd7e0ac</guid>
             <pubDate>Sun, 22 Nov 2015 21:47:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gallery]]></title>
-            <description><![CDATA[<article><h1>Gallery</h1><p>Images from the venue</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f4e66d54cd47948001f53ccef483c23a3d94f52.jpg"></article>]]></description>
-            <link>https://thegrid.ai/julio-cafe/gallery/index.html</link>
-            <guid isPermaLink="false">e5cd1b0f-ec84-4800-8778-1557285f3a67</guid>
-            <pubDate>Sun, 22 Nov 2015 21:42:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Julio]]></title>
